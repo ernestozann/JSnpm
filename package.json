@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "webpack": "^5.27.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.19.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.22.0"
+  }
+}
